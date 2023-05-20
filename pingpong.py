@@ -1,3 +1,20 @@
+#GitHib repository:
+#https://github.com/TigranG8403/ping-pong/
+
+#En
+#The .exe file is located in the "main" folder.
+#License: "Creative Commons"
+#Read the "README.rd" file in the GitHub repository.
+
+#---Ru/En
+
+#Ru
+#.exe файл находится в папке "main".
+#Лицензия: "Creative Commons"
+#Прочитайте файл "README.rd" в репозитории GitHub.
+
+
+#-----------------
 #Импортируем PyGame
 from pygame import *
 
@@ -119,3 +136,20 @@ while game:
     #Software interface display
     display.update()
     clock.tick(FPS)
+#-----------------
+
+
+#GitHib repository:
+#https://github.com/TigranG8403/ping-pong/
+
+#En
+#The .exe file is located in the "main" folder.
+#License: "Creative Commons"
+#Read the "README.rd" file in the GitHub repository.
+
+#---Ru/En
+
+#Ru
+#.exe файл находится в папке "main".
+#Лицензия: "Creative Commons"
+#Прочитайте файл "README.rd" в репозитории GitHub.
