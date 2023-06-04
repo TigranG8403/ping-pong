@@ -16,6 +16,7 @@
 
 #-----------------
 #Импортируем PyGame
+#Importing PyGame
 from pygame import *
 
 #Текст
